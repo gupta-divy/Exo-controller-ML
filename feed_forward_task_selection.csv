@@ -1,0 +1,130 @@
+0.145196304,dynamic_walk_1_butt-kicks,[]
+0.282640576,dynamic_walk_1_heel-walk,[]
+0.095470883,dynamic_walk_1_high-knees,[]
+0.180563346,dynamic_walk_1_toe-walk,[]
+0.04705935,jump_1_fb,[]
+0.178382695,jump_1_hop,[]
+0.082309701,jump_2_90-1,[]
+0.044241194,jump_1_vertical,[]
+0.068552911,jump_2_lateral,[]
+0.160409734,lift_weight_1_25lbs-l-l,[]
+0.143662229,lunges_1,[]
+0.148419872,meander_1,[]
+0.178312421,normal_walk_1_1-8,[]
+0.10941682,normal_walk_1_2-5,[]
+0.135839373,normal_walk_1_0-6,[]
+0.119955607,normal_walk_1_shuffle,[]
+0.057939012,normal_walk_1_skip,[]
+0.10053689,obstacle_walk_1,[]
+0.275349975,poses_1,[]
+0.056664739,push_1,[]
+0.074312411,side_shuffle_1,[]
+0.177436665,sit_to_stand_1_short-arm,[]
+0.155237556,squats_1_25lbs,[]
+0.241018176,stairs_1_1_up,[]
+0.249181911,stairs_1_2_down,[]
+0.116743587,turn_and_step_1_left-turn,[]
+0.120090455,twister_1,[]
+0.215406194,walk_backward_1_0-6,[]
+0.043654822,dynamic_walk_1_butt-kicks,['jump_1_vertical']
+0.027636498,dynamic_walk_1_heel-walk,['jump_1_vertical']
+0.025372885,dynamic_walk_1_high-knees,['jump_1_vertical']
+0.034179725,dynamic_walk_1_toe-walk,['jump_1_vertical']
+0.031749804,jump_1_fb,['jump_1_vertical']
+0.024584405,jump_1_hop,['jump_1_vertical']
+0.022182927,jump_2_90-1,['jump_1_vertical']
+0.034451891,jump_2_lateral,['jump_1_vertical']
+0.035096098,lift_weight_1_25lbs-l-l,['jump_1_vertical']
+0.054345313,lunges_1,['jump_1_vertical']
+0.025327282,meander_1,['jump_1_vertical']
+0.054261211,normal_walk_1_1-8,['jump_1_vertical']
+0.034011792,normal_walk_1_2-5,['jump_1_vertical']
+0.049015835,normal_walk_1_0-6,['jump_1_vertical']
+0.025251737,normal_walk_1_shuffle,['jump_1_vertical']
+0.02319527,normal_walk_1_skip,['jump_1_vertical']
+0.037460782,obstacle_walk_1,['jump_1_vertical']
+0.047993932,poses_1,['jump_1_vertical']
+0.023756318,push_1,['jump_1_vertical']
+0.038109537,side_shuffle_1,['jump_1_vertical']
+0.033799473,sit_to_stand_1_short-arm,['jump_1_vertical']
+0.039150801,squats_1_25lbs,['jump_1_vertical']
+0.046806872,stairs_1_1_up,['jump_1_vertical']
+0.046450779,stairs_1_2_down,['jump_1_vertical']
+0.024617564,turn_and_step_1_left-turn,['jump_1_vertical']
+0.027175404,twister_1,['jump_1_vertical']
+0.032217339,walk_backward_1_0-6,['jump_1_vertical']
+0.02982052,dynamic_walk_1_butt-kicks,"['jump_1_vertical', 'jump_2_90-1']"
+0.020575719,dynamic_walk_1_heel-walk,"['jump_1_vertical', 'jump_2_90-1']"
+0.021960443,dynamic_walk_1_high-knees,"['jump_1_vertical', 'jump_2_90-1']"
+0.015366034,dynamic_walk_1_toe-walk,"['jump_1_vertical', 'jump_2_90-1']"
+0.015689885,jump_1_fb,"['jump_1_vertical', 'jump_2_90-1']"
+0.021803483,jump_1_hop,"['jump_1_vertical', 'jump_2_90-1']"
+0.019164693,jump_2_lateral,"['jump_1_vertical', 'jump_2_90-1']"
+0.021681789,lift_weight_1_25lbs-l-l,"['jump_1_vertical', 'jump_2_90-1']"
+0.042054936,lunges_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.014494358,meander_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.024184231,normal_walk_1_1-8,"['jump_1_vertical', 'jump_2_90-1']"
+0.02049461,normal_walk_1_2-5,"['jump_1_vertical', 'jump_2_90-1']"
+0.01896756,normal_walk_1_0-6,"['jump_1_vertical', 'jump_2_90-1']"
+0.012639638,normal_walk_1_shuffle,"['jump_1_vertical', 'jump_2_90-1']"
+0.023365501,normal_walk_1_skip,"['jump_1_vertical', 'jump_2_90-1']"
+0.017960867,obstacle_walk_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.023607641,poses_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.014610691,push_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.016769346,side_shuffle_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.020084059,sit_to_stand_1_short-arm,"['jump_1_vertical', 'jump_2_90-1']"
+0.021037161,squats_1_25lbs,"['jump_1_vertical', 'jump_2_90-1']"
+0.027174437,stairs_1_1_up,"['jump_1_vertical', 'jump_2_90-1']"
+0.029446462,stairs_1_2_down,"['jump_1_vertical', 'jump_2_90-1']"
+0.017518139,turn_and_step_1_left-turn,"['jump_1_vertical', 'jump_2_90-1']"
+0.017328201,twister_1,"['jump_1_vertical', 'jump_2_90-1']"
+0.021245038,walk_backward_1_0-6,"['jump_1_vertical', 'jump_2_90-1']"
+0.011862656,dynamic_walk_1_butt-kicks,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.014133244,dynamic_walk_1_heel-walk,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.008944977,dynamic_walk_1_high-knees,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.011627171,dynamic_walk_1_toe-walk,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.012692393,jump_1_fb,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.010193161,jump_1_hop,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.010179762,jump_2_lateral,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.012467871,lift_weight_1_25lbs-l-l,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.029823778,lunges_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.012907362,meander_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.017310293,normal_walk_1_1-8,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.009375747,normal_walk_1_2-5,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.01360149,normal_walk_1_0-6,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.013047752,normal_walk_1_skip,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.010050029,obstacle_walk_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.009882568,poses_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.010256408,push_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.015322446,side_shuffle_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.012260458,sit_to_stand_1_short-arm,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.010563289,squats_1_25lbs,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.028428735,stairs_1_1_up,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.034342218,stairs_1_2_down,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.013845392,turn_and_step_1_left-turn,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.011366527,twister_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.011080477,walk_backward_1_0-6,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle']"
+0.01638505,dynamic_walk_1_butt-kicks,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.010066383,dynamic_walk_1_heel-walk,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008488501,dynamic_walk_1_toe-walk,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.00873709,jump_1_fb,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.009971024,jump_1_hop,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.012971042,jump_2_lateral,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008863886,lift_weight_1_25lbs-l-l,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.015814224,lunges_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008037766,meander_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.011866758,normal_walk_1_1-8,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008395365,normal_walk_1_2-5,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.010240069,normal_walk_1_0-6,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.013325355,normal_walk_1_skip,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.009609541,obstacle_walk_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.0118229,poses_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.00901405,push_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.011299528,side_shuffle_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008169145,sit_to_stand_1_short-arm,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.009013168,squats_1_25lbs,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.013994835,stairs_1_1_up,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.013856923,stairs_1_2_down,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.00772478,turn_and_step_1_left-turn,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.008979654,twister_1,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
+0.011838202,walk_backward_1_0-6,"['jump_1_vertical', 'jump_2_90-1', 'normal_walk_1_shuffle', 'dynamic_walk_1_high-knees']"
